@@ -1,0 +1,27 @@
+#age-filter{
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    top: 4px;
+}
+#googlechart-control-0-1{
+    width: 50%;
+    left: 0px;
+}
+
+#age-filter-inferior{
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    top: 4px;
+}
+
+[id~="error"] span{
+
+    display: none !important;
+      
+}
+
+[id*="errors"] {
+    display: none !important;
+  }
